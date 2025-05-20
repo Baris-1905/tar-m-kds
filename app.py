@@ -5,9 +5,11 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url('https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=1600&q=80');
-        background-size: cover;
-        background-attachment: fixed;
+        
+       background-image: url('background.jpg');
+background-size: cover;
+background-attachment: fixed;
+
     }
     h1 {
         text-align: center;
