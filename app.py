@@ -5,7 +5,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url('background.jpg');
+        background-image: url('https://github.com/Baris-1905/tar-m-kds/blob/d0716a25a2e0e6c9a85fd3c51792b9717a049d6b/background.jpg');
         background-size: cover;
         background-attachment: fixed;
     }
